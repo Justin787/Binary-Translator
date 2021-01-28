@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Binary Translator/1.0.0": {
+        "runtime": {
+          "Binary Translator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Binary Translator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
